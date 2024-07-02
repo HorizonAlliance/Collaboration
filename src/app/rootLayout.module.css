@@ -1,0 +1,19 @@
+/* RootLayout.module.css */
+
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  flex: 1;
+}
+
+.content {
+  flex: 2;
+  padding: 20px;
+}
+
+.news {
+  flex: 1;
+}
